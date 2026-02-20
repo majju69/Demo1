@@ -6,5 +6,6 @@ a,b = 2,3
 z = func(a,b)
 print(z)
 
-# kush
+# kushm.mcs2025 MCS202509
+
 
